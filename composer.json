@@ -15,7 +15,7 @@
   },
   "autoloader": {
     "psr-4": {
-      "Mbrianp\\FuncCollection\\": "lib/Mbrianp/Http/"
+      "Mbrianp\\FuncCollection\\Http\\": "lib/Mbrianp/Http/"
     }
   }
 }
