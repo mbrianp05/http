@@ -1,0 +1,19 @@
+{
+  "name": "mbrianp/http",
+  "description": "A HTTP Component",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Brian",
+      "email": "mbrianp05@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoloader": {
+    "psr-4": {
+      "Mbrianp\\Components\\": "lib/Mbrianp/Http/"
+    }
+  }
+}
