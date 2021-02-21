@@ -1,6 +1,6 @@
 <?php
 
-namespace Mbrianp\Component\Http;
+namespace Mbrianp\FuncCollection\Http;
 
 class Request
 {
