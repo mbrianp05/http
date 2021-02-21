@@ -1,9 +1,9 @@
 <?php
 
-namespace Mbrianp\Component\Http;
+namespace Mbrianp\FuncCollection\Http;
 
-use Mbrianp\Component\DIC\DIC;
-use Mbrianp\Component\Kernel\ParameterResolver;
+use Mbrianp\FuncCollection\DIC\DIC;
+use Mbrianp\FuncCollection\Kernel\ParameterResolver;
 use ReflectionParameter;
 
 class HttpParameterResolver implements ParameterResolver

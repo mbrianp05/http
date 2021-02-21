@@ -1,10 +1,10 @@
 <?php
 
-namespace Mbrianp\Component\Http;
+namespace Mbrianp\FuncCollection\Http;
 
-use Mbrianp\Component\DIC\DependenciesDefinitionInterface;
-use Mbrianp\Component\DIC\DIC;
-use Mbrianp\Component\DIC\Service;
+use Mbrianp\FuncCollection\DIC\DependenciesDefinitionInterface;
+use Mbrianp\FuncCollection\DIC\DIC;
+use Mbrianp\FuncCollection\DIC\Service;
 
 class HttpDependenciesDefinition implements DependenciesDefinitionInterface
 {
