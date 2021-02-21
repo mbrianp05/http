@@ -13,7 +13,7 @@
   "require": {
     "mbrianp/dic": "*"
   },
-  "autoloader": {
+  "autoload": {
     "psr-4": {
       "Mbrianp\\FuncCollection\\Http\\": "lib/Mbrianp/Http"
     }
