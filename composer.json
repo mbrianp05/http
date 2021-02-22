@@ -11,7 +11,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "mbrianp/dic": "dev-master"
+    "mbrianp/dic": "*"
   },
   "autoload": {
     "psr-4": {
